@@ -1,5 +1,5 @@
 <!-- Wave Divider -->
-<img src="https://github.com/bugscity/bugscity/blob/main/assets/wave.svg" width="100%" height="150">
+<img src="https://github.com/BugsCity/BugsCity/blob/main/assets/wave.svg" width="100%" height="150">
 
 <h1 align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1643514754/11542/meow_code.gif?1643514754" width="30">
@@ -12,8 +12,8 @@
 </h3>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=bugscity&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views">
-  <img src="https://img.shields.io/github/followers/bugscity?label=Followers&style=social" alt="GitHub Followers">
+  <img src="https://komarev.com/ghpvc/?username=BugsCity&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views">
+  <img src="https://img.shields.io/github/followers/BugsCity?label=Followers&style=social" alt="GitHub Followers">
 </div>
 
 ---
@@ -59,9 +59,9 @@ if __name__ == '__main__':
 
 ### 📈 GitHub Analytics
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bugscity&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&locale=pt-br">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bugscity&layout=compact&theme=vision-friendly-dark&locale=pt-br">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=bugscity&theme=vision-friendly-dark">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BugsCity&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true&locale=pt-br">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BugsCity&layout=compact&theme=vision-friendly-dark&locale=pt-br">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=BugsCity&theme=vision-friendly-dark">
 </div>
 
 ### 📫 Entre em Contato
@@ -78,4 +78,4 @@ if __name__ == '__main__':
 </div>
 
 <!-- Wave Divider -->
-<img src="https://github.com/bugscity/bugscity/blob/main/assets/wave.svg" width="100%" height="150">
+<img src="https://github.com/BugsCity/BugsCity/blob/main/assets/wave.svg" width="100%" height="150">
