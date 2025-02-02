@@ -1,6 +1,3 @@
-<!-- Wave Divider -->
-<img src="https://github.com/BugsCity/BugsCity/blob/main/assets/wave.svg" width="100%" height="150">
-
 <h1 align="center">
   <img src="https://emojis.slackmojis.com/emojis/images/1643514754/11542/meow_code.gif?1643514754" width="30">
   Bem-vindo à Bugs City
@@ -76,6 +73,3 @@ if __name__ == '__main__':
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </div>
-
-<!-- Wave Divider -->
-<img src="https://github.com/BugsCity/BugsCity/blob/main/assets/wave.svg" width="100%" height="150">
